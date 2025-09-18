@@ -1,1 +1,1 @@
-# AdaSGD
+Code for the experiments of the AdaSGD paper.
